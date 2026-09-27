@@ -1,0 +1,13 @@
+{
+  "name": "settle-ai-mediator",
+  "version": "3.0.0",
+  "private": true,
+  "description": "A neutral, evidence-aware AI mediation room for consumer disputes.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
